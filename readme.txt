@@ -4,3 +4,4 @@ a
 Creating a new branch is quick AND simple.
 forbid ff mode
 test git stash
+fixed bug
